@@ -2,7 +2,7 @@
 - 👀 I’m interested in Football
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @diae_edd1ne
+- 📫 How to reach me ?
 - ⚡ Fun fact: I'm faaast boi
 
 <!---
