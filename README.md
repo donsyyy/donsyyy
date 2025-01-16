@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @donsyyy
-- 👀 I’m interested in Football
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ?
-- ⚡ Fun fact: I'm faaast boi
+donsyyy here, currently learning Cybersecurity as plan B (plan A's football)
+
 
 <!---
 donsyyy/donsyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
